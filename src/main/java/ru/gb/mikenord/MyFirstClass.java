@@ -1,6 +1,5 @@
 package ru.gb.mikenord;
 
-
 public class MyFirstClass {
 
     @Test(5)

@@ -1,6 +1,5 @@
 package ru.gb.mikenord;
 
-
 public class MySecondClass {
 
     @Test(5)
